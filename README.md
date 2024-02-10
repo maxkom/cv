@@ -1,19 +1,18 @@
 # Maksym Kombarov
 
-From 🇺🇦 with ❤️
-
 <img src="photo.jpeg" style="width: 20%; border: 1px dashed #b5e853; box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 5px rgba(181,232,83,0.1), 0 0 10px rgba(181,232,83,0.1);">
 
 ## Quality Assurance Engineer
 
 *I thrive on the challenges of ensuring software quality, improving product reliability, and enhancing user satisfaction. I aim to collaborate with talented development teams to create software that exceeds expectations and stands the test of time. Monitoring and delivering requirements to the lowest level of code by using a user-oriented approach in everything. Using available instruments in the market to derive the best quality of the products.*
 
+From 🇺🇦 with ❤️
+
 ## Contacts
 
 -  **Email:** <a href="mailto:max.kombarov@gmail.com" target="_blank">max.kombarov@gmail.com</a>
 -  **Phone:** <a href="tel:+38-068-00-69-119" target="_blank">+38-068-00-69-119</a>
 -  **Country:** <a href="https://www.google.com/maps/place/Zaporizhzhia,+Zaporizhzhia+Oblast,+Ukraine/" target="_blank">Zaporizhzhia, Ukraine</a>
-
 -  **LinkedIn:** <a href="https://linkedin.com/in/maksym-kombarov" target="_blank">https://linkedin.com/in/maksym-kombarov</a>
 -  **Medium:** <a href="https://medium.com/@max.kombarov" target="_blank">https://medium.com/@max.kombarov</a><
 
