@@ -1,5 +1,7 @@
 # Maksym Kombarov
 
+From 🇺🇦 with ❤️
+
 <img src="photo.jpeg" style="width: 20%; border: 1px dashed #b5e853; box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 5px rgba(181,232,83,0.1), 0 0 10px rgba(181,232,83,0.1);">
 
 ## Quality Assurance Engineer
