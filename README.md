@@ -50,7 +50,7 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 
 ### Co-founder, E-commerce manager, Web developer
 **Elegant (elegantshoes.com.ua)** - Melitopol, Ukraine
-**E-commerce and retail stores
+*E-commerce and retail store*
 *10/2016 - 02/2022*
 ***Achievements/Tasks***
 - Pioneered and architected the end-to-end development and maintenance of an e-commerce platform using WordPress +
@@ -60,17 +60,18 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 - Strategized and executed digital marketing initiatives, amplifying brand presence and expanding market reach with measurable success.
 - Blended technical prowess with strategic business insights, advancing software quality assurance practices that prioritize user satisfaction and operational excellence.
 
-### Co-founder, E-commerce manager, Web developer
-**Elegant (elegantshoes.com.ua)** - Melitopol, Ukraine
-**E-commerce and retail stores
-*10/2016 - 02/2022*
+### Software Engineer, Quality Assurance Engineer
+**Diolan (diolan.com), Israel** - Kharkiv, Ukraine
+*Hardware and software development company*
+*07/2009 - 01/2016*
 ***Achievements/Tasks***
-- Pioneered and architected the end-to-end development and maintenance of an e-commerce platform using WordPress +
-WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
-- Engineered and customized responsive web designs and user interfaces, optimizing for cross-device compatibility and superior user experiences with HTML5, CSS/SCSS, PHP, and JavaScript.
-- Innovated and orchestrated process automation, enhancing operational efficiencies and seamlessly integrating services to support the e-commerce ecosystem. Integrated CRM, POS cash registers, payment and delivery services into business process.
-- Strategized and executed digital marketing initiatives, amplifying brand presence and expanding market reach with measurable success.
-- Blended technical prowess with strategic business insights, advancing software quality assurance practices that prioritize user satisfaction and operational excellence.
+- Took part in full development and testing cycle of hardware and software in international commercial company.
+- Participated in testing of drivers and API libraries for the company embedded hardware.
+- Took part in developing and testing frontend applications (desktop, web and mobile Android, QT), which are supplied with the devices of company.
+- Verified API libraries with different OS environments and programming languages including NI LabView (LabView Driver).
+Wite teditcanico./tation.com uSeting als umentation orone sortware aprications and documentin the fermos or the
+distributed source code.    
+- Provided customer support on software and devices. Working with end-users (B2P) and mostly with embedded developers of IT companies (B2B). who use company products in their applications or development proiects.
 
 ## Volunteer Experience
 
