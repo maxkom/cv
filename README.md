@@ -1,2 +1,1 @@
-# maxkombarov.github.io
-CV
+# Maksym Kombarov
