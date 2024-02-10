@@ -34,12 +34,18 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 
 ## Work Experience
 
-### Job Title 1
-**Company Name** - Location  
-*Month Year - Present*
-- Achievement 1
-- Achievement 2
-- ...
+### Quality Assurance Engineer
+**Disoft** - Zaporizhzhia, Ukraine
+***Design and development company***  
+*05/2022 - Present*
+- Orchestrated manual and automation functional and non-functional testing to ensure comprehensive coverage and quality.
+- Facilitated integration testing of disparate systems through external APls, enhancing interoperability and system reliability.
+- Executed installation and distribution delivery testing using CLI in a Linux environment, leveraging Docker and virtualization technologies for efficient deployment.
+- Conducted quality assurance for projects across automotive, internet service provider (ISP) networks, and security sectors.
+- Evaluated and improved UX/UI and layout for a range of software applications, including web, REST APIs, iOS and Android applications, and hardware devices like PON equipment.
+- Developed and maintained test plans, cases, technical documentation, and user manuals, streamlining the QA process and facilitating knowledge transfer.
+- Mastered and applied a comprehensive toolkit, includingIntelliJ YouTrack, Qase, DevTools, Charles, HTTP Toolkit, Proxyman, Postman with Newman, Android Studio, Xcode, IntelliJ Idea, VSCode, Docker, virtual desktops, GitBook and various testing and development tools, to optimize testing workflows and outcomes.
+- Main tools stack: Leveraged cutting-edge technologies such as JavaScript with Cypress and Playwright, Java with Selenium, and Python, alongside CI/CD pipelines with GitLab and Jenkins, to automate and enhance testing efficacy and efficiency.
 
 ### Job Title 2
 **Company Name** - Location  
