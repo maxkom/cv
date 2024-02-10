@@ -40,7 +40,7 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 
 *05/2022 - Present*
 
-***Achievements/Tasks***
+***Tasks/Achievements***
 - Orchestrated manual and automation functional and non-functional testing to ensure comprehensive coverage and quality.
 - Facilitated integration testing of disparate systems through external APls, enhancing interoperability and system reliability.
 - Executed installation and distribution delivery testing using CLI in a Linux environment, leveraging Docker and virtualization technologies for efficient deployment.
@@ -56,7 +56,7 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 
 *10/2016 - 02/2022*
 
-***Achievements/Tasks***
+***Tasks/Achievements***
 - Pioneered and architected the end-to-end development and maintenance of an e-commerce platform using WordPress +
 WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 - Engineered and customized responsive web designs and user interfaces, optimizing for cross-device compatibility and superior user experiences with HTML5, CSS/SCSS, PHP, and JavaScript.
@@ -69,7 +69,7 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 **Kharkiv, Ukraine**
 *07/2009 - 01/2016*
 
-***Achievements/Tasks***
+***Tasks/Achievements***
 - Took part in full development and testing cycle of hardware and software in international commercial company.
 - Participated in testing of drivers and API libraries for the company embedded hardware.
 - Took part in developing and testing frontend applications (desktop, web and mobile Android, QT), which are supplied with the devices of company.
@@ -80,12 +80,13 @@ distributed source code.
 
 ## Volunteer Experience
 
-### Volunteer Position
-**Organization** - Location  
-*Month Year - Present*
-- Contribution 1
-- Contribution 2
-- ...
+### Top Contributor
+**Google**
+**Remote**
+*04/2017- 08/2019*
+***Tasks/Achievements***
+• Resolved hundreds of user inquiries monthly, enhancing customer satisfaction and loyalty to Android products.
+• Collaborated with Google's product teams and other contributors, providing user feedback that led to tangible improvements in Android services.
 
 ## Education
 
