@@ -62,13 +62,11 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 **Diolan (diolan.com), Israel** - *Hardware and software development company* - *Kharkiv, Ukraine* - *07/2009 - 01/2016*
 
 ***Tasks/Achievements***
-- Took part in full development and testing cycle of hardware and software in international commercial company.
-- Participated in testing of drivers and API libraries for the company embedded hardware.
-- Took part in developing and testing frontend applications (desktop, web and mobile Android, QT), which are supplied with the devices of company.
-- Verified API libraries with different OS environments and programming languages including NI LabView (LabView Driver).
-Wite teditcanico./tation.com uSeting als umentation orone sortware aprications and documentin the fermos or the
-distributed source code.    
-- Provided customer support on software and devices. Working with end-users (B2P) and mostly with embedded developers of IT companies (B2B). who use company products in their applications or development proiects.
+- Took part in the full development and testing cycle of hardware and software in an international commercial company.
+- Participated in the testing of drivers and API libraries for the company-embedded hardware.
+- Took part in developing and testing frontend applications (desktop, web and mobile Android, QT), which are supplied with the devices of the company.
+- Verified API libraries with different OS environments and programming languages including NI LabView (LabView Driver). Wite teditcanico./tation.com using als augmentation orone software applications and documenting the forms or the distributed source code.
+- Provided customer support on software and devices. Working with end-users (B2P) and mostly with embedded developers of IT companies (B2B). who use company products in their applications or development projects.
 
 ## Volunteer Experience
 
