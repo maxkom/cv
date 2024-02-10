@@ -17,10 +17,20 @@
 
 ## Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
-- ...
+- **Manual Testing:** Extensive experience in test case design and test runs execution. DevTools, HTTP
+Toolkit, Charles, Fiddler, Proxyman, Postman, CLI and logs researching.
+Requirements, functional, non-functional and integration testing.
+Continiuos improvement
+-  **Test Automation:** Selenium, Selenide, Playwright,
+Cypress, REST Assured, JMeter, K8, Java, JavaScript,
+Python, Postman with Newman, Cucumber, PyTest, JUnit, TestNG, Maven, Gradle, NI LabView.
+-  **CI/CD:** Integrating continuous testing for reliable software releases with Jenkins, GitHub and Git Lab.
+-  **Cross-Platform:** Mac, Linux,
+Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embedded systems.
+-  **Defect Tracking:** Proficient in Qase, YouTrack, JIRA, Trello, Bugzilla, Trac, Sentry.
+-  **Test Planning:** Creating comprehensive test plans. Prefer system approaches to handle everyday testing routines to have everything fixed and documented.
+-  **Agile/Scrum:** Proficient in Agile/Scrum practices, ensuring quality within short development cycles.
+-  **Test & Technical Documentation:** Skilled in technical documentation. Dedicated to clear and concise test plans and manuals. DocBook, XSLT, GitBook, LaTeX, Writerside and Markdown.
 
 ## Work Experience
 
