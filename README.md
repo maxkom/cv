@@ -101,25 +101,25 @@ distributed source code.
 
 ## Education
 
-**Economic Cybernetics**, Faculty of Postgraduate Education
+**Economic Cybernetics**
 
 *Kharkiv National University of Radioelectronics*, *09/2008 - 07/2009*
-
+- Faculty of Postgraduate Education
 - Qualification: Specialist
 - Grade: High
 
 
-**Automated systems software engineering**, Faculty of Computer Sciences
+**Automated systems software engineering**
 
 *Kharkiv National University of Radioelectronics*, *09/2007 - 07/2008*
-
+- Faculty of Computer Sciences
 - Qualification: Specialist
 - Grade: High
 
-**Specialist of Information Technologies**, Faculty of Computer Sciences
+**Specialist of Information Technologies**
 
 *Kharkiv National University of Radioelectronics*, *09/2003 - 07/2007*
-
+- Faculty of Computer Sciences
 - Qualification: Bachelor
 - Grade: High
 
