@@ -125,18 +125,28 @@ distributed source code.
 
 ## Languages
 
-- Language 1 (Proficiency)
-- Language 2 (Proficiency)
-- ...
+- English (Full Professional Proficiency)
+- Ukrainian (Native or Bilingual Proficiency)
+- Russian (Native or Bilingual Proficiency)
 
 ## Soft Skills
 
-- Soft Skill 1
-- Soft Skill 2
-- ...
+- Problem solver
+- Attention to details
+- Great communication skills
+- Team player
+- Strong analytical skills
+- High responsibility
+- Accuracy
 
 ## Interests
 
-- Interest 1
-- Interest 2
-- ...
+- Self-improvement and education
+- Reading
+- Science and technology
+- CG and painting
+- Gaming
+- Cooking
+- Fitness
+- Yoga
+- Traveling
