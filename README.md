@@ -12,7 +12,7 @@ From 🇺🇦 with ❤️
 
 -  **Email:** <a href="mailto:max.kombarov@gmail.com" target="_blank">max.kombarov@gmail.com</a>
 -  **Telegram:** <a href="https://t.me/whoamimax" target="_blank">@whoamimax</a>
--  **Country:** <a href="https://www.google.com/maps/place/Zaporizhzhia,+Zaporizhzhia+Oblast,+Ukraine/" target="_blank">Zaporizhzhia, Ukraine</a>
+-  **Location:** <a href="https://www.google.com/maps/place/Zaporizhzhia,+Zaporizhzhia+Oblast,+Ukraine/" target="_blank">Zaporizhzhia, Ukraine</a>
 -  **LinkedIn:** <a href="https://linkedin.com/in/maksym-kombarov" target="_blank">https://linkedin.com/in/maksym-kombarov</a>
 -  **Medium:** <a href="https://medium.com/@max.kombarov" target="_blank">https://medium.com/@max.kombarov</a>
 
