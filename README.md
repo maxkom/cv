@@ -1,6 +1,6 @@
 # Maksym Kombarov
 
-<img src="photo.jpeg" width="20%" style="border: 5px solid #b5e853; letter-spacing: -0.03em; box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 5px rgba(181,232,83,0.1), 0 0 10px rgba(181,232,83,0.1);">
+<img src="photo.jpeg" style="width: 20%; border: 1px dashed #b5e853 box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 5px rgba(181,232,83,0.1), 0 0 10px rgba(181,232,83,0.1);">
 
 ## Quality Assurance Engineer
 
@@ -8,7 +8,7 @@
 
 ## Contacts
 
--  **Email:** <a href="mailto:max.kombarov@gmail.com" target="_blank">max.kombarov@gmail.com</a><
+-  **Email:** <a href="mailto:max.kombarov@gmail.com" target="_blank">max.kombarov@gmail.com</a>
 -  **Phone:** <a href="tel:+38-068-00-69-119" target="_blank">+38-068-00-69-119</a>
 -  **Country:** Zaporizhzhia, Ukraine
 -  **LinkedIn:** <a href="https://linkedin.com/in/maksym-kombarov" target="_blank">https://linkedin.com/in/maksym-kombarov</a>
