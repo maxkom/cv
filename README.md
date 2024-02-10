@@ -12,7 +12,7 @@
 -  **Phone:** +380680069119
 -  **Country:** Zaporizhzhia, Ukraine
 -  **LinkedIn:** [https://linkedin.com/in/maksym-kombarov](https://linkedin.com/in/maksym-kombarov)
--  **Medium:** [https://github.com/yourprofile](https://medium.com/@max.kombarov)
+-  **Medium:** [https://medium.com/@max.kombarov](https://medium.com/@max.kombarov)
 
 
 ## Skills
