@@ -105,26 +105,23 @@ distributed source code.
 
 *Kharkiv National University of Radioelectronics*, *09/2008 - 07/2009*
 
-Qualification: Specialist
-
-Grade: High
+- Qualification: Specialist
+- Grade: High
 
 
 **Automated systems software engineering**, Faculty of Computer Sciences
 
 *Kharkiv National University of Radioelectronics*, *09/2007 - 07/2008*
 
-Qualification: Specialist
-
-Grade: High
+- Qualification: Specialist
+- Grade: High
 
 **Specialist of Information Technologies**, Faculty of Computer Sciences
 
 *Kharkiv National University of Radioelectronics*, *09/2003 - 07/2007*
 
-Qualification: Bachelor
-
-Grade: High
+- Qualification: Bachelor
+- Grade: High
 
 ## Languages
 
