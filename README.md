@@ -37,7 +37,7 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 
 ### Quality Assurance Engineer
 
-**Disoft** - *Design and development company* - *Zaporizhzhia, Ukraine* - *05/2022 - Present*
+**Disoft (disoft.dev)** - *Design and development company* - *Zaporizhzhia, Ukraine* - *05/2022 - Present*
 
 ***Tasks/Achievements***
 - Orchestrated manual and automation functional and non-functional testing to ensure comprehensive coverage and quality.
