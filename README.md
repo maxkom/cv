@@ -78,7 +78,7 @@ distributed source code.
 
 ### Top Contributor
 
-**Google** - *Remote* - *04/2017- 08/2019*
+**Google** - *Remote* - *04/2017 - 08/2019*
 
 ***Tasks/Achievements***
 - Resolved hundreds of user inquiries monthly, enhancing customer satisfaction and loyalty to Android products.
