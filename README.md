@@ -140,7 +140,8 @@ distributed source code.
 - Arts and Culture
 - Civil Rights and Social Action
 - Disaster and Humanitarian Relief
-- Economic Empowerment • Education
+- Economic Empowerment
+- Education
 - Environment
 - Health
 - Human Rights
