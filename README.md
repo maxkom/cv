@@ -1,6 +1,6 @@
 # Maksym Kombarov
 
-![Your Photo](https://share.icloud.com/photos/01179vKeX9ql4PcCBtMLyUXqA)
+![Your Photo](photo.jpeg)(40%)
 
 ## Quality Assurance Engineer
 
