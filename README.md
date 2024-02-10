@@ -1,6 +1,6 @@
 # Maksym Kombarov
 
-![Your Photo](photo.jpeg)(40%)
+![Your Photo](photo.jpeg)[40%]
 
 ## Quality Assurance Engineer
 
