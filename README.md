@@ -9,7 +9,7 @@
 ## Contacts
 
 -  **Email:** max.kombarov@gmail.com
--  **Phone:** +380680069119
+-  **Phone:** +38-068-00-69-119
 -  **Country:** Zaporizhzhia, Ukraine
 -  **LinkedIn:** [https://linkedin.com/in/maksym-kombarov](https://linkedin.com/in/maksym-kombarov)
 -  **Medium:** [https://medium.com/@max.kombarov](https://medium.com/@max.kombarov)
@@ -36,8 +36,9 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 
 ### Quality Assurance Engineer
 **Disoft** - Zaporizhzhia, Ukraine
-*Design and development company*  
+*Design and development company* 
 *05/2022 - Present*
+
 ***Achievements/Tasks***
 - Orchestrated manual and automation functional and non-functional testing to ensure comprehensive coverage and quality.
 - Facilitated integration testing of disparate systems through external APls, enhancing interoperability and system reliability.
@@ -52,6 +53,7 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 **Elegant (elegantshoes.com.ua)** - Melitopol, Ukraine
 *E-commerce and retail store*
 *10/2016 - 02/2022*
+
 ***Achievements/Tasks***
 - Pioneered and architected the end-to-end development and maintenance of an e-commerce platform using WordPress +
 WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
@@ -64,6 +66,7 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 **Diolan (diolan.com), Israel** - Kharkiv, Ukraine
 *Hardware and software development company*
 *07/2009 - 01/2016*
+
 ***Achievements/Tasks***
 - Took part in full development and testing cycle of hardware and software in international commercial company.
 - Participated in testing of drivers and API libraries for the company embedded hardware.
