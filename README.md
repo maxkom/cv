@@ -35,7 +35,9 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 ## Work Experience
 
 ### Quality Assurance Engineer
-**Disoft** - *Design and development company*  
+
+**Disoft** - *Design and development company* 
+
 **Zaporizhzhia, Ukraine**
 
 *05/2022 - Present*
@@ -51,7 +53,9 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 - Main tools stack: Leveraged cutting-edge technologies such as JavaScript with Cypress and Playwright, Java with Selenium, and Python, alongside CI/CD pipelines with GitLab and Jenkins, to automate and enhance testing efficacy and efficiency.
 
 ### Co-founder, E-commerce manager, Web developer
+
 **Elegant (elegantshoes.com.ua)** - *E-commerce and retail store*
+
 **Melitopol, Ukraine**
 
 *10/2016 - 02/2022*
@@ -65,8 +69,11 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 - Blended technical prowess with strategic business insights, advancing software quality assurance practices that prioritize user satisfaction and operational excellence.
 
 ### Software Engineer, Quality Assurance Engineer
+
 **Diolan (diolan.com), Israel** - *Hardware and software development company*
+
 **Kharkiv, Ukraine**
+
 *07/2009 - 01/2016*
 
 ***Tasks/Achievements***
@@ -84,9 +91,10 @@ distributed source code.
 **Google**
 **Remote**
 *04/2017- 08/2019*
+
 ***Tasks/Achievements***
-• Resolved hundreds of user inquiries monthly, enhancing customer satisfaction and loyalty to Android products.
-• Collaborated with Google's product teams and other contributors, providing user feedback that led to tangible improvements in Android services.
+- Resolved hundreds of user inquiries monthly, enhancing customer satisfaction and loyalty to Android products.
+- Collaborated with Google's product teams and other contributors, providing user feedback that led to tangible improvements in Android services.
 
 ## Education
 
