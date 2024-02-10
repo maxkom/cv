@@ -1,6 +1,6 @@
 # Maksym Kombarov
 
-<img src="photo.jpeg" style="width: 20%; border: 1px dashed #b5e853 box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 5px rgba(181,232,83,0.1), 0 0 10px rgba(181,232,83,0.1);">
+<img src="photo.jpeg" style="width: 20%; border: 1px dashed #b5e853; box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 5px rgba(181,232,83,0.1), 0 0 10px rgba(181,232,83,0.1);">
 
 ## Quality Assurance Engineer
 
@@ -35,11 +35,7 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 
 ### Quality Assurance Engineer
 
-**Disoft** - *Design and development company* 
-
-**Zaporizhzhia, Ukraine**
-
-*05/2022 - Present*
+**Disoft** - *Design and development company* - *Zaporizhzhia, Ukraine* - *05/2022 - Present*
 
 ***Tasks/Achievements***
 - Orchestrated manual and automation functional and non-functional testing to ensure comprehensive coverage and quality.
@@ -53,11 +49,7 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 
 ### Co-founder, E-commerce manager, Web developer
 
-**Elegant (elegantshoes.com.ua)** - *E-commerce and retail store*
-
-**Melitopol, Ukraine**
-
-*10/2016 - 02/2022*
+**Elegant (elegantshoes.com.ua)** - *E-commerce and retail store* - *Melitopol, Ukraine* - *10/2016 - 02/2022*
 
 ***Tasks/Achievements***
 - Pioneered and architected the end-to-end development and maintenance of an e-commerce platform using WordPress +
@@ -69,11 +61,7 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 
 ### Software Engineer, Quality Assurance Engineer
 
-**Diolan (diolan.com), Israel** - *Hardware and software development company*
-
-**Kharkiv, Ukraine**
-
-*07/2009 - 01/2016*
+**Diolan (diolan.com), Israel** - *Hardware and software development company* - *Kharkiv, Ukraine* - *07/2009 - 01/2016*
 
 ***Tasks/Achievements***
 - Took part in full development and testing cycle of hardware and software in international commercial company.
@@ -88,11 +76,7 @@ distributed source code.
 
 ### Top Contributor
 
-**Google**
-
-**Remote**
-
-*04/2017- 08/2019*
+**Google** - *Remote* - *04/2017- 08/2019*
 
 ***Tasks/Achievements***
 - Resolved hundreds of user inquiries monthly, enhancing customer satisfaction and loyalty to Android products.
@@ -100,7 +84,7 @@ distributed source code.
 
 ## Education
 
-**Economic Cybernetics**
+### Economic Cybernetics
 
 *Kharkiv National University of Radioelectronics*, *09/2008 - 07/2009*
 - Faculty of Postgraduate Education
@@ -108,14 +92,14 @@ distributed source code.
 - Grade: High
 
 
-**Automated systems software engineering**
+###  utomated systems software engineering
 
 *Kharkiv National University of Radioelectronics*, *09/2007 - 07/2008*
 - Faculty of Computer Sciences
 - Qualification: Specialist
 - Grade: High
 
-**Specialist of Information Technologies**
+###  Specialist of Information Technologies
 
 *Kharkiv National University of Radioelectronics*, *09/2003 - 07/2007*
 - Faculty of Computer Sciences
