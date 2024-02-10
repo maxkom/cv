@@ -1,6 +1,6 @@
 # Maksym Kombarov
 
-<img src="photo.jpeg" height="40%">
+<img src="photo.jpeg" width="40%">
 
 ## Quality Assurance Engineer
 
