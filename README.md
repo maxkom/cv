@@ -36,8 +36,9 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 
 ### Quality Assurance Engineer
 **Disoft** - Zaporizhzhia, Ukraine
-***Design and development company***  
+*Design and development company*  
 *05/2022 - Present*
+***Achievements/Tasks***
 - Orchestrated manual and automation functional and non-functional testing to ensure comprehensive coverage and quality.
 - Facilitated integration testing of disparate systems through external APls, enhancing interoperability and system reliability.
 - Executed installation and distribution delivery testing using CLI in a Linux environment, leveraging Docker and virtualization technologies for efficient deployment.
@@ -47,12 +48,29 @@ Windows, iOS, Android, Docker, virtual machines with Proxmox, hardware and embed
 - Mastered and applied a comprehensive toolkit, includingIntelliJ YouTrack, Qase, DevTools, Charles, HTTP Toolkit, Proxyman, Postman with Newman, Android Studio, Xcode, IntelliJ Idea, VSCode, Docker, virtual desktops, GitBook and various testing and development tools, to optimize testing workflows and outcomes.
 - Main tools stack: Leveraged cutting-edge technologies such as JavaScript with Cypress and Playwright, Java with Selenium, and Python, alongside CI/CD pipelines with GitLab and Jenkins, to automate and enhance testing efficacy and efficiency.
 
-### Job Title 2
-**Company Name** - Location  
-*Month Year - Month Year*
-- Achievement 1
-- Achievement 2
-- ...
+### Co-founder, E-commerce manager, Web developer
+**Elegant (elegantshoes.com.ua)** - Melitopol, Ukraine
+**E-commerce and retail stores
+*10/2016 - 02/2022*
+***Achievements/Tasks***
+- Pioneered and architected the end-to-end development and maintenance of an e-commerce platform using WordPress +
+WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
+- Engineered and customized responsive web designs and user interfaces, optimizing for cross-device compatibility and superior user experiences with HTML5, CSS/SCSS, PHP, and JavaScript.
+- Innovated and orchestrated process automation, enhancing operational efficiencies and seamlessly integrating services to support the e-commerce ecosystem. Integrated CRM, POS cash registers, payment and delivery services into business process.
+- Strategized and executed digital marketing initiatives, amplifying brand presence and expanding market reach with measurable success.
+- Blended technical prowess with strategic business insights, advancing software quality assurance practices that prioritize user satisfaction and operational excellence.
+
+### Co-founder, E-commerce manager, Web developer
+**Elegant (elegantshoes.com.ua)** - Melitopol, Ukraine
+**E-commerce and retail stores
+*10/2016 - 02/2022*
+***Achievements/Tasks***
+- Pioneered and architected the end-to-end development and maintenance of an e-commerce platform using WordPress +
+WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
+- Engineered and customized responsive web designs and user interfaces, optimizing for cross-device compatibility and superior user experiences with HTML5, CSS/SCSS, PHP, and JavaScript.
+- Innovated and orchestrated process automation, enhancing operational efficiencies and seamlessly integrating services to support the e-commerce ecosystem. Integrated CRM, POS cash registers, payment and delivery services into business process.
+- Strategized and executed digital marketing initiatives, amplifying brand presence and expanding market reach with measurable success.
+- Blended technical prowess with strategic business insights, advancing software quality assurance practices that prioritize user satisfaction and operational excellence.
 
 ## Volunteer Experience
 
