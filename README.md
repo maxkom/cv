@@ -141,3 +141,8 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 - Human Rights
 - Politics
 - Science and Technology
+
+🌟 Let's Connect:
+I'm eager to network with QA pros, developers, project managers, and anyone passionate about top-notch software.
+
+📩 Let's chat: Feel free to DM me or connect. Thanks for visiting my cv! 🙌
