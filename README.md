@@ -131,6 +131,7 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 - Traveling
 
 ## Couses
+- Science and Technology
 - Arts and Culture
 - Civil Rights and Social Action
 - Disaster and Humanitarian Relief
@@ -140,12 +141,13 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 - Health
 - Human Rights
 - Politics
-- Science and Technology
 
-🌟 Let's Connect:
-I'm eager to network with QA pros, developers, project managers, and anyone passionate about top-notch software.
+Let's Connect: I'm eager to network with QA professionals, developers, project managers, and anyone passionate about top-notch technology and software.
 
-📩 Let's chat: Feel free to DM me or connect. Thanks for visiting my cv! 🙌
+Let's chat: Feel free to DM me or connect by socials. Thanks for viewing my cv!
+
+
+
 
 
 ## Follow the white rabbit...
