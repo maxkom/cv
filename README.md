@@ -142,17 +142,11 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 - Human Rights
 - Politics
 
-Let's Connect: I'm eager to network with QA professionals, developers, project managers, and anyone passionate about top-notch technology and software.
+**Let's Connect:** I'm eager to network with QA professionals, developers, project managers, and anyone passionate about top-notch technology and software.
 
-Let's chat: Feel free to DM me or connect by socials. Thanks for viewing my cv!
+**Let's chat:** Feel free to DM me or connect by socials. Thanks for viewing my cv!
 
 
-<div class="footer" style="background: rgba(0,0,0,0.1);
-width: 100%;
-border-top: 1px dashed #b5e853;
-padding: 20px 0;
-margin: 0 0 40px 0;">
+<div class="footer" style="background: rgba(0,0,0,0.1); width: 100%; border-top: 1px dashed #b5e853; padding: 20px 0; margin: 0 0   40px 0;"/>
 
 ## Follow the white rabbit...
-
-</div>
