@@ -151,4 +151,4 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 
 ## ./.
 ##   .
-##   . Follow the white rabbit...
+##   . Follow the white rabbit . . .
