@@ -150,5 +150,4 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 <div class="footer" style="background: rgba(0,0,0,0.1); width: 100%; border-top: 1px dashed #b5e853; padding: 20px 0; margin: 0 0   40px 0;"/>
 
 ## ./
-## .
-## . Follow the white rabbit . . .
+## Follow the white rabbit . . .
