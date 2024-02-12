@@ -130,7 +130,7 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 - Yoga
 - Traveling
 
-## Couses
+## Supported Causes
 - Science and Technology
 - Arts and Culture
 - Civil Rights and Social Action
