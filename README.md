@@ -133,11 +133,11 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 
 ## Supported Causes
 - Science and Technology
+- Education
 - Arts and Culture
 - Civil Rights and Social Action
 - Disaster and Humanitarian Relief
 - Economic Empowerment
-- Education
 - Environment
 - Health
 - Human Rights
