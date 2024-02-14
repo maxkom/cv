@@ -121,14 +121,15 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 ## Interests
 
 - Self-improvement and education
-- Reading
 - Science and technology
+- Reading
 - CG and painting
 - Gaming
 - Cooking
 - Fitness
 - Yoga
 - Traveling
+- Fashion
 
 ## Supported Causes
 - Science and Technology
