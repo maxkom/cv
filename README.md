@@ -129,7 +129,6 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 - Fitness
 - Yoga
 - Traveling
-- Fashion
 
 ## Supported Causes
 - Science and Technology
