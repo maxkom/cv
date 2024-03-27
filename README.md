@@ -31,9 +31,13 @@ Continiuos improvement.
 
 ## Work Experience
 
+### Software Test Engineer
+
+**Peppernode (peppernode.net)** - *Reliable software development partner for Startups and SMBs* - *Ukraine* - *04/2024 - Present*
+
 ### Quality Assurance Engineer
 
-**Disoft (disoft.dev)** - *Design and development company* - *Zaporizhzhia, Ukraine* - *05/2022 - Present*
+**Disoft (disoft.dev)** - *Design and development company* - *Zaporizhzhia, Ukraine* - *05/2022 - 04/2024*
 
 ***Tasks/Achievements***
 - Orchestrated manual and automation functional and non-functional testing to ensure comprehensive coverage and quality.
