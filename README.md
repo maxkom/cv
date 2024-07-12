@@ -35,12 +35,21 @@ Continiuos improvement.
 
 **Peppernode (peppernode.net)** - *Reliable software development partner for Startups and SMBs* - *Ukraine* - *04/2024 - Present*
 
+***Tasks/Achievements***
+- Specialise in ensuring the highest quality in software products within the IoT and food/restaurant technology sectors.
+- Design, execute, and maintain comprehensive test plans to verify functionality, performance, and security of innovative solutions.
+- Collaborate with cross-functional teams, including developers and product managers, to identify and resolve issues early in the development cycle.
+- Ensure seamless integration and optimal user experiences through detailed testing processes.
+- Implement robust testing frameworks leveraging expertise in manual and automated testing.
+- Enhance efficiency and reliability of products by developing and maintaining testing protocols.
+- Drive quality assurance initiatives with a passion for excellence and a keen eye for detail.
+
 ### Quality Assurance Engineer
 
 **Disoft (disoft.dev)** - *Design and development company* - *Zaporizhzhia, Ukraine* - *05/2022 - 04/2024*
 
 ***Tasks/Achievements***
-- Orchestrated manual and automation functional and non-functional testing to ensure comprehensive coverage and quality.
+- Performed manual and automation functional and non-functional testing to ensure comprehensive coverage and quality.
 - Facilitated integration testing of disparate systems through external APls, enhancing interoperability and system reliability.
 - Executed installation and distribution delivery testing using CLI in a Linux environment, leveraging Docker and virtualization technologies for efficient deployment.
 - Conducted quality assurance for projects across automotive, internet service provider (ISP) networks, and security sectors.
