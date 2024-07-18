@@ -101,7 +101,7 @@ WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
 - Grade: High
 
 
-###  utomated systems software engineering
+###  Automated systems software engineering
 
 *Kharkiv National University of Radioelectronics*, *09/2007 - 07/2008*
 - Faculty of Computer Sciences
