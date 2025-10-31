@@ -56,16 +56,21 @@ From 🇺🇦 with ❤️
 - Mastered and applied a comprehensive toolkit, including IntelliJ, YouTrack, Qase, DevTools, Charles, HTTP Toolkit, Proxyman, Postman with Newman, Android Studio, Xcode, IntelliJ IDEA, VSCode, Docker, virtual desktops, GitBook, and various testing and development tools, to optimize testing workflows and outcomes.
 - Main tools stack: Leveraged cutting-edge technologies such as JavaScript with Cypress and Playwright, Java with Selenium, and Python, alongside CI/CD pipelines with GitLab and Jenkins, to automate and enhance testing efficacy and efficiency.
 
-### Co-founder, E-commerce Manager, Web Developer
+### Private Entrepreneur — Co-founder
 
-**Elegant (elegantshoes.com.ua)** - *E-commerce and retail store* - *Melitopol, Ukraine* - *10/2016 - 02/2022*
+*Ukraine — 10/2016 – 02/2022*
 
-***Tasks/Achievements***
-- Pioneered and architected the end-to-end development and maintenance of an e-commerce platform using WordPress and WooCommerce, demonstrating expertise in full-stack web technologies and CMS.
-- Engineered and customized responsive web designs and user interfaces, optimizing for cross-device compatibility and superior user experiences with HTML5, CSS/SCSS, PHP, and JavaScript.
-- Innovated and orchestrated process automation, enhancing operational efficiencies and seamlessly integrating services to support the e-commerce ecosystem. Integrated CRM, POS cash registers, payment, and delivery services into business processes.
-- Strategized and executed digital marketing initiatives, amplifying brand presence and expanding market reach with measurable success.
-- Blended technical prowess with strategic business insights, advancing software quality assurance practices that prioritize user satisfaction and operational excellence.
+***Summary***
+Acquired rich experience in the retail and e-commerce field, combining entrepreneurship, web development, and quality assurance practices. Oversaw the complete lifecycle of a digital business — from infrastructure and deployment to UX, marketing, and testing — ensuring technical stability, high performance, and measurable business growth.
+
+***Tasks / Achievements***
+- Designed, developed, and maintained a full-scale e-commerce platform using WordPress and WooCommerce, implementing responsive front-end architecture in HTML5, CSS/SCSS, PHP, and JavaScript.
+- Integrated and tested CRM, POS, payment, and delivery systems, ensuring seamless workflows and data consistency through systematic QA and regression testing.
+- Performed manual and exploratory testing of website functionality, checkout flow, and system integrations, detecting and resolving issues before release.
+- Managed DevOps aspects of the project: server configuration, version control (Git), backups, deployment pipelines, and site performance monitoring.
+- Applied SEO optimization, analytics, and structured data strategies to increase visibility, organic traffic, and conversion rates.
+- Implemented continuous improvement processes for stability, uptime, and customer satisfaction.
+- Bridged technical development with business strategy, ensuring product quality, maintainability, and operational scalability.
 
 ### Software Engineer, Quality Assurance Engineer
 
