@@ -34,7 +34,7 @@ From 🇺🇦 with ❤️
 **Peppernode (peppernode.net)** - *Reliable software development partner for Startups and SMBs* - *Ukraine* - *04/2024 - Present*
 
 ***Tasks/Achievements***
-- Specialize in ensuring the highest quality in software products within the IoT and food/restaurant technology sectors.
+- Specialize in ensuring the highest quality in software products within the IoT, AI. finance, retail and food/restaurant technology sectors.
 - Design, execute, and maintain comprehensive test plans to verify functionality, performance, and security of innovative solutions.
 - Collaborate with cross-functional teams, including developers and product managers, to identify and resolve issues early in the development cycle.
 - Ensure seamless integration and optimal user experiences through detailed testing processes.
